@@ -1,6 +1,7 @@
 ---
-title: 利用I2P实现匿名交流,
+title: 利用I2P实现匿名交流
 publish_date: 2022-05-07
+tags: ["i2p"]
 ---
 
 I2P(Invisible Internet Project) 是一种匿名网络，我们可以使用`netcat`工具连接 I2P 网络进行通讯。使用本教程前，你需要提前安装并运行`i2pd`。
