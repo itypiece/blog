@@ -1,5 +1,5 @@
 ---
-title: 较先进的 Arch Linux 安装指南
+title: Arch Linux 安装指南
 publish_date: 2023-08-09
 tags: ["Linux"]
 ---
